@@ -52,7 +52,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
-![2-1](./9.3-2-001.jpg)
+![2-1](./9.4-2-001.jpg)
 
 ---
 
@@ -68,4 +68,4 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
-![3-1](./9.3-3-001.jpg)
+![3-1](./9.4-3-001.jpg)
